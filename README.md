@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
