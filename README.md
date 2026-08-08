@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0001-two-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
