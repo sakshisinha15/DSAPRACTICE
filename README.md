@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -42,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
