@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0445-add-two-numbers-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
