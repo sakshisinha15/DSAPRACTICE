@@ -46,19 +46,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
