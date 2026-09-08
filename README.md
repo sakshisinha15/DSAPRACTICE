@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
