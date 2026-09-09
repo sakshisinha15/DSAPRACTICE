@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0217-contains-duplicate) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sakshisinha15/DSAPRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
